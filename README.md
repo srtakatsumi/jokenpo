@@ -4,7 +4,7 @@ Jogo jokenpo utilizando NODEJS - POO
 # Módulo de programação Orientada a Objetos:
 Neste módulo elaboramos uma interface de linha comando com NODEJS fazendo uso de estrutura de classes e objetos literais com Javascript.
 
-Para baixar o repositório : git clone https://github.com/mrdouglasmorais/jokenpo-linha-comando
+Para baixar o repositório : git clone https://github.com/srtakatsumi/jokenpo
 
 Para instalar as dependências do projeto: npm i
 
